@@ -1,4 +1,4 @@
-# Proxy-Service
+# Go Proxy
 
 **Post Request Structure**
 
