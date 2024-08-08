@@ -1,0 +1,4 @@
+{
+  "exec": "go run cmd/main/main.go",
+  "ext": "go"
+}
